@@ -10,7 +10,7 @@
   "description":      "Install custom ohai plugins.",
   "replacing":        { },
   "platforms":        { "ubuntu": [ ] },
-  "version":          "1.0.0",
+  "version":          "1.0.1",
   "maintainer":       "CloudAware",
   "recommendations":  { },
   "name":             "ohai-plugins",
